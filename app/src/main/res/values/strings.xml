@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spotify Updater</string>
+    <string name="local_header">Local Package Information</string>
+    <string name="local_name">Package Name:</string>
+    <string name="local_size">App Size:</string>
+    <string name="local_version">Currently Installed Version:</string>
+    <string name="local_date">Last Updated On:</string>
+    <string name="refresh_desc">Refresh package information</string>
+    <string name="remote1_header">Remote Source #1</string>
+    <string name="remote2_header">Remote Source #2</string>
+    <string name="placeholder">N/A</string>
+</resources>
